@@ -7,9 +7,14 @@
 </head>
 <body>
   <h1>Hello World!</h1>
+<<<<<<< HEAD
   <h3> github demo modification </h3>
   <h2> github demo Completed</h2>
   
+=======
+  <p>Good Morning</p>
+  <p>git demo is complete</p>
+>>>>>>> 90745d5a560ee4333063d451edc02c9902f01b92
 </body>
 </html>
 
